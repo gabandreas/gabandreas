@@ -203,3 +203,63 @@ const currentlyLearning = {
   <p><i>⭐️ From <a href="https://github.com/gabandreas">gabandreas</a></i></p>
   <p><i>Feel free to reach out for exciting projects, collaboration opportunities, or professional discussions! 🚀</i></p>
 </div>
+
+<div align="center">
+
+
+
+
+### 🎯 Developer Jokes Zone
+<details>
+<summary>😄 Click for a random dev joke!</summary>
+
+```javascript
+const jokes = [
+  "Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
+  "How many programmers does it take to change a light bulb? None, that's a hardware problem! 💡",
+  "Why don't programmers like nature? It has too many bugs! 🌿🐛",
+  "What's a programmer's favorite hangout place? Foo Bar! 🍻",
+  "Why did the programmer quit his job? He didn't get arrays! 💰"
+];
+
+console.log(jokes[Math.floor(Math.random() * jokes.length)]);
+// Refresh for another joke! 😄
+```
+
+</details>
+
+
+
+### 🚀 Visitor Spaceship
+```
+    🛸
+   /   \
+  /_____\
+     |
+ You are visitor number:
+```
+![Visitor Count](https://profile-counter.glitch.me/gabandreas/count.svg)
+
+### 🎲 Random Developer Quote Generator
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+---
+### 🎶 My Taste Of Music
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31clqvb3ljat5uvglgdo3qxftyua)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabandreas/gabandreas/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabandreas/gabandreas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabandreas/gabandreas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabandreas/gabandreas/output/pacman-contribution-graph.svg">
+</picture>
+
+###

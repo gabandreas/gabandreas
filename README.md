@@ -99,17 +99,18 @@ I'm a **Fresh Graduate** with a **Diploma in Information Technology** from **Bra
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabandreas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabandreas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabandreas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabandreas&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>  
+###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabandreas&theme=tokyonight" alt="GitHub Streak Stats"/>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabandreas.gabandreas&"  />
 </div>
+
+###
 
 ## 🌱 Currently Learning
 

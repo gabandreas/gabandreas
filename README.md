@@ -243,10 +243,6 @@ console.log(jokes[Math.floor(Math.random() * jokes.length)]);
 
 ---
 ### 🎮 Games
-
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabandreas/gabandreas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabandreas/gabandreas/output/pacman-contribution-graph.svg">

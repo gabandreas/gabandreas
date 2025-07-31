@@ -208,7 +208,7 @@ const currentlyLearning = {
 
 
 
-
+---
 ### 🎯 Developer Jokes Zone
 <details>
 <summary>😄 Click for a random dev joke!</summary>
@@ -230,19 +230,6 @@ console.log(jokes[Math.floor(Math.random() * jokes.length)]);
 
 
 
-### 🚀 Visitor Spaceship
-```
-    🛸
-   /   \
-  /_____\
-     |
- You are visitor number:
-```
-![Visitor Count](https://profile-counter.glitch.me/gabandreas/count.svg)
-
-### 🎲 Random Developer Quote Generator
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 
 ---
@@ -250,6 +237,8 @@ console.log(jokes[Math.floor(Math.random() * jokes.length)]);
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31clqvb3ljat5uvglgdo3qxftyua)
 
+---
+### 🎮 Games
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabandreas/gabandreas/output/snake.svg" alt="Snake animation" />

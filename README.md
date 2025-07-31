@@ -239,9 +239,7 @@ console.log(jokes[Math.floor(Math.random() * jokes.length)]);
 
 ---
 ### 🎮 Games
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabandreas/gabandreas/output/snake.svg" alt="Snake animation" />
 
 ###
 
